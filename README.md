@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am an Undergraduate student, currently pursuing 3rd year B.Tech(Internet Of Things) at Gudlavalleru Engineering College.<br>🌱I' am currently learning Devops with AWS and front end development<br>💬ask me about Devops fundamentals, programming and scripting languages<br>📫 How to reach me : Rakeshmagapu5@gmail.com<br><br>
+🔭I am an Undergraduate, with a degree in B.Tech(Internet Of Things) at Gudlavalleru Engineering College.<br>🌱I am currently learning VLSI Design, Digital Electronics, and ASIC Flow.<br>💬Ask me about RTL design, Verilog/SystemVerilog, Digital Circuits, and fundamentals of VLSI.<br>📫 How to reach me : Rakeshmagapu5@gmail.com<br><br>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ## 🌐 Socials:
